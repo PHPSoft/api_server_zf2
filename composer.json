@@ -1,4 +1,7 @@
 {
+    "repositories": [
+        {"type": "vcs", "url": "https://github.com/weierophinney/zend-mvc.git"}
+    ],
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": ">=2.2.4"
